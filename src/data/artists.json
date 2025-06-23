@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "Ariana Vox",
+    "category": "Singer",
+    "priceRange": "₹30K - ₹50K",
+    "location": "Delhi"
+  },
+  {
+    "id": 2,
+    "name": "DJ Blaze",
+    "category": "DJ",
+    "priceRange": "₹20K - ₹40K",
+    "location": "Mumbai"
+  },
+  {
+    "id": 3,
+    "name": "Rhythm Crew",
+    "category": "Dancer",
+    "priceRange": "₹50K - ₹80K",
+    "location": "Bangalore"
+  },
+  {
+    "id": 4,
+    "name": "TalkPro",
+    "category": "Speaker",
+    "priceRange": "₹10K - ₹25K",
+    "location": "Delhi"
+  },
+  {
+    "id": 5,
+    "name": "Melody Queen",
+    "category": "Singer",
+    "priceRange": "₹40K - ₹60K",
+    "location": "Chennai"
+  },
+  {
+    "id": 6,
+    "name": "DJ Sonic",
+    "category": "DJ",
+    "priceRange": "₹25K - ₹45K",
+    "location": "Pune"
+  },
+  {
+    "id": 7,
+    "name": "Step Masters",
+    "category": "Dancer",
+    "priceRange": "₹60K - ₹90K",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 8,
+    "name": "InspireTalks",
+    "category": "Speaker",
+    "priceRange": "₹15K - ₹30K",
+    "location": "Kolkata"
+  },
+  {
+    "id": 9,
+    "name": "Vocal Vibes",
+    "category": "Singer",
+    "priceRange": "₹35K - ₹55K",
+    "location": "Ahmedabad"
+  },
+  {
+    "id": 10,
+    "name": "DJ Nova",
+    "category": "DJ",
+    "priceRange": "₹30K - ₹50K",
+    "location": "Delhi"
+  },
+  {
+    "id": 11,
+    "name": "Groove Squad",
+    "category": "Dancer",
+    "priceRange": "₹55K - ₹85K",
+    "location": "Mumbai"
+  },
+  {
+    "id": 12,
+    "name": "MotivateMe",
+    "category": "Speaker",
+    "priceRange": "₹20K - ₹35K",
+    "location": "Bangalore"
+  },
+  {
+    "id": 13,
+    "name": "Harmony Beats",
+    "category": "Singer",
+    "priceRange": "₹45K - ₹70K",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 14,
+    "name": "DJ Pulse",
+    "category": "DJ",
+    "priceRange": "₹28K - ₹48K",
+    "location": "Chennai"
+  },
+  {
+    "id": 15,
+    "name": "Urban Moves",
+    "category": "Dancer",
+    "priceRange": "₹65K - ₹95K",
+    "location": "Pune"
+  },
+  {
+    "id": 16,
+    "name": "Keynote King",
+    "category": "Speaker",
+    "priceRange": "₹18K - ₹32K",
+    "location": "Ahmedabad"
+  },
+  {
+    "id": 17,
+    "name": "Soulful Strings",
+    "category": "Singer",
+    "priceRange": "₹38K - ₹58K",
+    "location": "Kolkata"
+  },
+  {
+    "id": 18,
+    "name": "DJ Echo",
+    "category": "DJ",
+    "priceRange": "₹22K - ₹42K",
+    "location": "Delhi"
+  },
+  {
+    "id": 19,
+    "name": "Fusion Feet",
+    "category": "Dancer",
+    "priceRange": "₹70K - ₹100K",
+    "location": "Chennai"
+  },
+  {
+    "id": 20,
+    "name": "InspireX",
+    "category": "Speaker",
+    "priceRange": "₹25K - ₹40K",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 21,
+    "name": "Bollywood Beats",
+    "category": "Singer",
+    "priceRange": "₹50K - ₹80K",
+    "location": "Mumbai"
+  },
+  {
+    "id": 22,
+    "name": "DJ Orbit",
+    "category": "DJ",
+    "priceRange": "₹35K - ₹55K",
+    "location": "Bangalore"
+  },
+  {
+    "id": 23,
+    "name": "Step Up Crew",
+    "category": "Dancer",
+    "priceRange": "₹80K - ₹120K",
+    "location": "Delhi"
+  },
+  {
+    "id": 24,
+    "name": "Wisdom Talks",
+    "category": "Speaker",
+    "priceRange": "₹30K - ₹50K",
+    "location": "Pune"
+  }
+]
