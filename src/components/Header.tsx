@@ -14,7 +14,6 @@ export default function Header() {
           🎤 Artistly
         </h1>
       </Link>
-      {/* Desktop Nav */}
       <nav className="space-x-4 hidden sm:flex">
         {["/", "/artists", "/onboard", "/dashboard"].map((href, idx) => (
           <Link
@@ -29,7 +28,6 @@ export default function Header() {
           </Link>
         ))}
       </nav>
-      {/* Mobile Hamburger */}
       <nav
         className="sm:hidden flex flex-col justify-center items-center w-8 h-8"
         onClick={() => setMenuOpen((v) => !v)}

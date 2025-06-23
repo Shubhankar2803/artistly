@@ -25,7 +25,7 @@ export default function CategoryGrid({ categories }: { categories: any[] }) {
       whileInView="show"
       viewport={{ once: false, amount: 0.2 }}
     >
-      {categories.map((cat, i) => (
+      {categories.map((cat) => (
         <motion.div key={cat.name} variants={item}>
           <CategoryCard category={cat} />
         </motion.div>
