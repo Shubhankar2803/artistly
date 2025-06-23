@@ -1,7 +1,6 @@
 "use client"
 import Footer from "@/components/Footer"
 import Header from "@/components/Header"
-import Head from "next/head"
 import { useState, ReactNode } from "react"
 
 // Mock data for artist submissions
