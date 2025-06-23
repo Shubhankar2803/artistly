@@ -1,11 +1,11 @@
 import { Button } from "@/components/ui/button"
 import Header from "@/components/Header"
-import CategoryGrid from "@/components/CategoryGrid"
 import categories from "@/data/categories.json"
 import Link from "next/link"
 import AboutSection from "@/components/AboutSection"
 import TestimonialSection from "@/components/TestimonialSection"
 import Footer from "@/components/Footer"
+import CategoryCard from "@/components/CategoryCard"
 
 export default function HomePage() {
   return (
@@ -41,7 +41,11 @@ export default function HomePage() {
         <h2 className="text-2xl font-semibold mb-6 border-b-2 border-[#a259ff] pb-2 drop-shadow-[0_0_8px_#a259ff] text-center">
           Popular Categories
         </h2>
-        <CategoryGrid categories={categories} />
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {categories.map((category, index) => (
+            <CategoryCard key={index} category={category} />
+          ))}
+        </div>
       </section>
       <AboutSection />
       <TestimonialSection />
