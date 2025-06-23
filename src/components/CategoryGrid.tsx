@@ -1,6 +1,7 @@
 "use client"
 import { motion } from "framer-motion"
 import CategoryCard from "./CategoryCard"
+import { Category } from "@/types/category"
 
 const container = {
   hidden: {},
@@ -16,7 +17,7 @@ const item = {
   show: { opacity: 1, y: 0, transition: { duration: 0.7, ease: "easeOut" } },
 }
 
-export default function CategoryGrid({ categories }: { categories: any[] }) {
+export default function CategoryGrid({ categories }: { categories: Category[] }) {
   return (
     <motion.div
       className="grid grid-cols-2 gap-8 max-w-3xl mx-auto"
