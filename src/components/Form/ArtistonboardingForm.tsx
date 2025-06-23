@@ -29,7 +29,7 @@ export default function ArtistOnboardingForm() {
   const {
     register,
     handleSubmit,
-    control,
+   
     formState: { errors },
   } = useForm<FormData>({
     resolver: zodResolver(FormSchema),
